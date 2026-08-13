@@ -22,25 +22,11 @@ Please list possible sub-problems:
 4. Hundreds of students usually buy from one station.
 
 
-Step 3: Define Computational Thinking Approaches
-For each sub-problem, apply CT skills:
-Sub-Problem
-CT Skill
-Example Solution
-Some students take too long to decide what to order.
-Abstraction
-Make the menu visible to students even while waiting in line by posting the foods available on the wall.
-The cashier has to manually calculate totals and give change.
-Algorithmic thinking
-Set up an application where all the food’s prices are listed and have it automatically calculate the change based on the payment the customer made.
- There is no system to track which food items are running out.
-Algorithmic thinking
-Have the application monitor how many servings can be distributed.
-Hundreds of students usually buy from one station.
-Pattern recognition
-Have another station set up with more food variations available.
+Step 3:
+![table](
 
- Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+
+Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 1. Start
 2. Enter the amount of servings of food distributed
 3. Enter the amount of servings of food at the before the start of lunch
