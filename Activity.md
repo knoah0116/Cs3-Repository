@@ -23,7 +23,7 @@ Please list possible sub-problems:
 
 
 Step 3:
-![table](
+![table](Screenshot_2026-08-13-23-14-17-937_com.google.android.apps.docs.editors.docs-edit.jpg)
 
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
