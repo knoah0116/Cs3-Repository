@@ -6,5 +6,5 @@ Knoah Kenji D. Padilla
 
 Sample Codes:
 
-  Car:
+  Car: github.com/knoah0116/Cs3-Repository/blob/main/CAR%20SAMPLE%20CODE
     
