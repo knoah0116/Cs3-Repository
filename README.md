@@ -6,5 +6,7 @@ Knoah Kenji D. Padilla
 
 Sample Codes:
 
-  Car: github.com/knoah0116/Cs3-Repository/blob/main/CAR%20SAMPLE%20CODE
+  Car: github.com/knoah0116/Cs3-Repository/blob/main/CAR%20SAMPLE%20CODE (INFLUENCE)
+  Tusok-Tusok: https://github.com/knoah0116/Cs3-Repository/blob/main/aggregation%20fishball (AGGREGATION)
+  
     
