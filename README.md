@@ -6,7 +6,15 @@ Knoah Kenji D. Padilla
 
 Sample Codes:
 
-  Car: github.com/knoah0116/Cs3-Repository/blob/main/CAR%20SAMPLE%20CODE (INFLUENCE)
+  Car: https://github.com/knoah0116/Cs3-Repository/blob/main/CAR%20SAMPLE%20CODE (INFLUENCE)
+
   Tusok-Tusok: https://github.com/knoah0116/Cs3-Repository/blob/main/aggregation%20fishball (AGGREGATION)
+
+  CellAtWork: https://github.com/knoah0116/Cs3-Repository/blob/main/COMPOSITION%20CELLSATWORK%20SAMPLE%20CODE (COMPOSITION)
+
+FAs:
+
+
+  
   
     
