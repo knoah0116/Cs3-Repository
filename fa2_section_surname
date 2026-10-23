@@ -1,0 +1,41 @@
+class Patient:
+    __name: str
+    __bill_amount: float
+    def __init__(self,name,bill_amount):
+        self.__name=name
+        self.__bill_amount=bill_amount
+    def get_name(self):
+        return self.__name
+    
+    def set_name(name):
+        name=self.__name
+    
+    def get_bill_amount(self):
+        return self.__bill_amount
+    
+    def set_bill_amount(bill_amount):
+        bill_amount=self.__bill_amount
+    
+    def calculate_bill(self):
+        return print(f"Patient Name: {self.__name}\nOriginal Bill: {self.__bill_amount}\nFinal Bill: {self.__bill_amount}") #PRINTS PATIENT
+
+class Senior_Patient(Patient):
+    def calculate_bill(self):
+        amount=self.get_bill_amount()*0.8 #MULTIPLIES BILL BY 0.80 TO GET 80% OF THE ORIGINAL BILL
+        return print(f"Patient Name: {self.get_name()}\nOriginal Bill: {self.get_bill_amount()}\nFinal Bill: {amount}") #PRINTS SENIOR_PATIENT
+
+class PhilHealth_Patient(Patient):
+    def calculate_bill(self):
+        amount1=self.get_bill_amount()*0.8 #MULTIPLIES BILL BY 0.85 TO GET 85% OF THE ORIGINAL BILL
+        return print(f"Patient Name: {self.get_name()}\nOriginal Bill: {self.get_bill_amount()}\nFinal Bill: {amount1}") #PRINTS PHILHEALTH_BILL
+
+
+print("Hospital Billing System \n---------------------------")
+patient1=Patient("Mancao",100)
+patient2=Senior_Patient("Padilla",200)
+patient3=PhilHealth_Patient("Legaspi", 500)
+patient1.calculate_bill()
+print("")
+print(patient2.calculate_bill())
+print("")
+print(patient3.calculate_bill())
